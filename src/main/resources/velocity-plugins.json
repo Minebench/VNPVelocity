@@ -1,0 +1,8 @@
+{
+  "id": "vnpvelocity",
+  "name": "${project.name}",
+  "version": "${minecraft.plugin.version}",
+  "main": "de.themoep.vnpvelocity.VNPVelocity",
+  "authors": ["Phoenix616"],
+  "dependencies": []
+}
